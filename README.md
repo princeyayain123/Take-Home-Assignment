@@ -24,5 +24,6 @@ https://github.com/princeyayain123/Take-Home-Assignment
 ```bash
 git clone https://github.com/princeyayain123/Take-Home-Assignment.git
 cd Take-Home-Assignment
+npm install
 npm run dev
 ```
