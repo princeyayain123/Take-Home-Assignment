@@ -1,4 +1,4 @@
-# Take-Home Assignment – Biomarker Range Visualization
+# Take-Home Assignment
 
 This project is a React + Vite application.
 
