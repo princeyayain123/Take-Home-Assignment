@@ -1,27 +1,28 @@
-# Biomarker Take Home
+# Take-Home Assignment – Biomarker Range Visualization
 
-## Live Demo
+This project is a React + Vite application.
 
-👉 https://YOUR-NETLIFY-LINK.netlify.app
+Live Demo:  
+https://take-home-assignment-steel.vercel.app/
+
+GitHub Repository:  
+https://github.com/princeyayain123/Take-Home-Assignment
+
+---
 
 ## Tech Stack
 
 - React
 - Vite
 - Tailwind CSS
+- JavaScript (ES Modules)
 
-## Setup Instructions
+---
 
-### Prerequisites
-
-- Node.js (v18+ recommended)
-- npm
-
-### Install & Run Locally
+### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
-npm install
+git clone https://github.com/princeyayain123/Take-Home-Assignment.git
+cd Take-Home-Assignment
 npm run dev
 ```
